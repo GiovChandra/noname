@@ -1,0 +1,6 @@
+simpleMVC\repository\TutorialRepository.class
+simpleMVC\service\TutorialService.class
+simpleMVC\model\User.class
+simpleMVC\service\impl\TutorialServiceImpl.class
+simpleMVC\SimpleMVCApplication.class
+simpleMVC\controller\TutorialController.class

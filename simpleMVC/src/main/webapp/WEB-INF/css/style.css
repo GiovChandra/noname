@@ -1,0 +1,44 @@
+.kontent_tb {
+width:100%;
+color:#fff;
+font-size:13px;
+border-bottom: 1px solid #e0e0e0;
+float:left;
+font-family: "Segoe UI";
+margin: 20px 0 20px 0;
+border-spacing: 0;
+}
+
+
+
+.kontent_tb tr:hover td{
+background: #e8e7e7;
+}
+
+
+
+.kontent_tb tr td{
+padding: 10px;
+border-bottom: 1px solid #e0e0e0;
+text-align: left;
+height: 20 px;
+color: #666;
+}
+.greenButton {
+background-color: #72b40a;
+border-bottom: 2px solid #558705;
+}
+
+
+
+.redButton {
+background-color: #ef4343;
+border-bottom: 2px solid #da1818;
+}
+
+
+
+.blueButton {
+background-color: #0466b6;
+border-bottom: 2px solid #000;
+}
